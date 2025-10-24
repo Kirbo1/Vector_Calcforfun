@@ -13,7 +13,6 @@ There are three unique files for the calculator:
 The calculator operations, the image for the icon of the calculator, and the main GUI and setup of the calculator. 
 
 Target audience:
-The target users for this app are anyone who needs a calculator for basic vector operations, such as educators, engineers, or mathematicians.
 This app is designed for students, educators, engineers, or anyone else who needs to perform quick and reliable vector calculations without manual calculation.
 Set-Up Instructions: 
 
